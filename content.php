@@ -10,5 +10,4 @@
         echo "mxiox";
         echo "xtfak";
         echo "vtdnw";
-        echo "chors";
 ?>
