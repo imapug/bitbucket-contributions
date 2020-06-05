@@ -73,5 +73,4 @@
         echo "nkvnl";
         echo "imftk";
         echo "aypkn";
-        echo "eqjyc";
 ?>
