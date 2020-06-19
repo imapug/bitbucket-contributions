@@ -74,5 +74,4 @@
         echo "imftk";
         echo "wpdog";
         echo "jusbk";
-        echo "ssryi";
 ?>
