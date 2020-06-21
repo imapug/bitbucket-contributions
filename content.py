@@ -1,2 +1,2 @@
 print("speau")
-print("nqugu")
+print("imygk")
