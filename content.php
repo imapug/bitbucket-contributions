@@ -75,5 +75,4 @@
         echo "wpdog";
         echo "hwrso";
         echo "gprwc";
-        echo "aaupo";
 ?>
