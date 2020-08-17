@@ -25,5 +25,4 @@
         echo "ancnt";
         echo "uwllw";
         echo "qyvsf";
-        echo "priqh";
 ?>
