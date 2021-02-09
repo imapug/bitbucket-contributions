@@ -62,5 +62,4 @@
         echo "jhhxr";
         echo "bqxim";
         echo "vgmdm";
-        echo "dkoya";
 ?>
