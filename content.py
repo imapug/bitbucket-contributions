@@ -1,1 +1,1 @@
-print("vnbda")
+print("mkfig")
