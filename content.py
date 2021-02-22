@@ -1,1 +1,1 @@
-print("mkfig")
+print("ejlyc")
