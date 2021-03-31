@@ -29,5 +29,4 @@
         echo "ddhtg";
         echo "xtksc";
         echo "msgsv";
-        echo "savkn";
 ?>
