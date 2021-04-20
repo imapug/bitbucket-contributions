@@ -34,5 +34,4 @@
         echo "cnpue";
         echo "ycfdg";
         echo "mljji";
-        echo "twuol";
 ?>
