@@ -35,5 +35,4 @@
         echo "ycfdg";
         echo "mljji";
         echo "nfbde";
-        echo "wobic";
 ?>
